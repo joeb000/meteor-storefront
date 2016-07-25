@@ -53,11 +53,11 @@ Router.route('/view2', {
 // Route for view2
 Router.route('/vendor', {
     template: 'views_view3',
-    name: 'view3'
+    name: 'vendor'
 });
 
 // Route for view2
 Router.route('/master', {
     template: 'views_view4',
-    name: 'view4'
+    name: 'master'
 });
