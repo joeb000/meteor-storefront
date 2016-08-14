@@ -1,6 +1,5 @@
 # StoreFront Dapp
 
-A Proof of concept front end for a network of smart, vending-machine-like "storefronts"
-
-**Based off of [SilentCicero's meteor-dapp-boilerplate](https://github.com/SilentCicero/meteor-dapp-boilerplate)
-
+THIS REPOSTITORY HAS BEEN MIGRATED!!!
+Updates to the storefront meteor front end will be worked from:
+https://github.com/joeb000/storefront/tree/master/meteor-storefront
